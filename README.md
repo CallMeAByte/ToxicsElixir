@@ -1,15 +1,15 @@
 <img align="center" width="1000" src="https://i.imgur.com/Jdvhkz3.jpeg">
 
-<h1 align="center">Hello, I'm Toxic's Elixir</h1> <br> 
+<h1 align="center">Hello, I'm CallMeAByte but my friends call me Exa</h1> <br> 
 
 <h3 align="center">I am a entry level developer breaking into the Tech industry!</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=toxicselixir&label=Profile%20views&color=0e75b6&style=flat" alt="toxicselixir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/toxicselixir" target="blank"><img src="https://img.shields.io/twitter/follow/toxicselixir?logo=twitter&style=for-the-badge" alt="toxicselixir" /></a> </p>
+<p align="left"> <a href="[https://x.com/callmeabyte]" target="blank"><img src="https://img.shields.io/twitter/follow/toxicselixir?logo=twitter&style=for-the-badge" alt="toxicselixir" /></a> </p>
 
 💕 **Relationship Status:**
-* [Engaged to Toxic Dev](https://toxicdev.me/)
+* [Engaged to CodeMeAPixel](https://toxicdev.me/](https://codemeapixel.dev/)
 
 💻 **Co-Owner Of:**
 * [Infinity Bot List](https://infinitybots.gg/)
@@ -26,7 +26,7 @@
    
 
 🌱 **Currently Learning:**
-* Python
+* JavaScript
 
 
 🕵🏾‍♀️ **Interested In:**
@@ -36,11 +36,11 @@
  * Music
 
 📧 **Reach Me On:**
- * Discord: Toxics Elixir #8104
+ * Discord: CallMeAByte
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxicselixir" height="30" width="40" /></a> <a href="https://instagram.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxicselixir" height="30" width="40" /></a> <a href="https://discordapp.com/users/896951964234043413" target="Discord: Elixir"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elixir#2222" height="30" width="40" /></a>
+<a href="https://x.com/callmeabyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxicselixir" height="30" width="40" /></a> <a href="https://instagram.com/callmeabyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxicselixir" height="30" width="40" /></a> <a href="https://discordapp.com/users/896951964234043413" target="Discord: Exa"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elixir#2222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
